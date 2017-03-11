@@ -1,2 +1,2 @@
 # AnimalSpeller
-Type the name of the animals on the screen. Simple start to an educational game.
+Animal Speller is the simple beginnings to a game that assists in learning the spelling of different animal names.
